@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/sagarsingh510/sagarsingh510/blob/main/1708785811450.jpeg)
 <h1 align="center">Hi 👋, I'm Ashutosh Mishra</h1>
 <h3 align="center">A passionate Data Science learner from India</h3>
 
