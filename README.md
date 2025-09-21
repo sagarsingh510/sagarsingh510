@@ -96,4 +96,3 @@
 ---
 
 
-👉 Do you also want me to add a **“Certifications & Courses” section** (your IIIT Bangalore program + Six Sigma, etc.) right after Projects, so recruiters see both **skills + credibility** in one glance?
