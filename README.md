@@ -1,6 +1,3 @@
-
-
-```markdown
 # Hi there, I'm Sagar 👋
 
 <img align="right" alt="Coding" src="https://i.imgur.com/qJ7L3xP.png" width="350" height="300" />
@@ -69,6 +66,16 @@
 
 ---
 
+## 🎓 Certifications & Courses  
+
+- 🎓 **PG Program in Data Science & AI – IIIT Bangalore**  
+- ✅ **Six Sigma White Belt Certified (Process Excellence)**  
+- 📊 **Business Analytics Specialization** – [Coursera/LinkedIn Learning/etc.]  
+- 📈 **SQL & Database Management** (Advanced SQL queries, joins, optimization)  
+- 📉 **Machine Learning for Business Analytics**  
+
+---
+
 ## 🤝🏻 Connect with Me  
 
 <p align="center">
@@ -91,8 +98,6 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sagarsingh510&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-```
 
----
 
 
