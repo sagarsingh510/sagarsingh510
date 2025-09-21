@@ -1,6 +1,5 @@
 # Hi there, I'm Sagar 👋
 
-<img align="right" alt="Coding" src="https://i.imgur.com/qJ7L3xP.png" width="350" height="300" />
 
 ## 🚀 About Me  
 - 🎯 Co-founder & Head of Marketing & Analytics at **Serikala Lifestyle Pvt Ltd**  
@@ -11,6 +10,20 @@
 - 🥅 2025 Goals: Crack Business Analytics interviews + scale Serikala 🚀  
 
 ---
+## 🤝🏻 Connect with Me  
+
+<p align="center">
+<a href="https://www.linkedin.com/in/sagarsinghkumar/"><img src="https://img.shields.io/badge/-Sagar%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:sagar.kumarsingh510@gmail.com"><img src="https://img.shields.io/badge/-Personal%20Mail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:info@serikala.com"><img src="https://img.shields.io/badge/-Business%20Mail-8B0000?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://github.com/sagarsingh510"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
+<a href="https://www.instagram.com/_sagarkumarsingh_/"><img src="https://img.shields.io/badge/-@_sagarkumarsingh_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/serikala_official/"><img src="https://img.shields.io/badge/-@serikala_official-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.facebook.com/share/1FSzDMFu2R/"><img src="https://img.shields.io/badge/-Serikala%20Facebook-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+</p>
+
+---
+
 
 <h2><i>💻 Tech Stack and Tools</i></h2>
 
@@ -76,19 +89,6 @@
 
 ---
 
-## 🤝🏻 Connect with Me  
-
-<p align="center">
-<a href="https://www.linkedin.com/in/sagarsinghkumar/"><img src="https://img.shields.io/badge/-Sagar%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:sagar.kumarsingh510@gmail.com"><img src="https://img.shields.io/badge/-Personal%20Mail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="mailto:info@serikala.com"><img src="https://img.shields.io/badge/-Business%20Mail-8B0000?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://github.com/sagarsingh510"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
-<a href="https://www.instagram.com/_sagarkumarsingh_/"><img src="https://img.shields.io/badge/-@_sagarkumarsingh_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.instagram.com/serikala_official/"><img src="https://img.shields.io/badge/-@serikala_official-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/share/1FSzDMFu2R/"><img src="https://img.shields.io/badge/-Serikala%20Facebook-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-</p>
-
----
 
 <h2><i>⚙️ GitHub Analytics</i></h2>
 
